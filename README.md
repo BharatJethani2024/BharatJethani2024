@@ -26,6 +26,8 @@ Projects
 
 [👉 PowerBI Data Visualization Project](https://github.com/BharatJethani2024/POWER-BI-Project)
 
+[[👉Tableau Data Visualization Project](https://github.com/BharatJethani2024/Tableau-Project/tree/main)
+
 Contact
 
 📫 Email : Bharatjethani89@gmail.com | 
