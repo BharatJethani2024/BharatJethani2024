@@ -29,7 +29,7 @@ Projects
 [👉Tableau Data Visualization Project](https://github.com/BharatJethani2024/Tableau-Project/tree/main)
 
 
-[👉EXCEL Data Visualization Project]](https://github.com/BharatJethani2024/Excel-Project) 
+[👉EXCEL Data Visualization Project](https://github.com/BharatJethani2024/Excel-Project) 
 
 Contact
 
