@@ -26,7 +26,10 @@ Projects
 
 [👉 PowerBI Data Visualization Project](https://github.com/BharatJethani2024/POWER-BI-Project)
 
-[[👉Tableau Data Visualization Project](https://github.com/BharatJethani2024/Tableau-Project/tree/main)
+[👉Tableau Data Visualization Project](https://github.com/BharatJethani2024/Tableau-Project/tree/main)
+
+
+[👉EXCEL Data Visualization Project]](https://github.com/BharatJethani2024/Excel-Project) 
 
 Contact
 
