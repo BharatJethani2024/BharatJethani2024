@@ -31,7 +31,7 @@ Projects
 
 [👉EXCEL Data Visualization Project](https://github.com/BharatJethani2024/Excel-Project) 
 
-[👉EXCEL Data Visualization Project2]https://github.com/BharatJethani2024/Excel-Project-2
+[👉EXCEL Data Visualization Project2](https://github.com/BharatJethani2024/Excel-Project-2)
 
 Contact
 
